@@ -1,0 +1,6 @@
+# Variables de entorno sensibles
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
